@@ -1,2 +1,2 @@
 # koeniginen-kita
-prototype for a static webpage for a kindergarden
+prototype for a static webpage I made for a friend who runs a Kindergarden.
